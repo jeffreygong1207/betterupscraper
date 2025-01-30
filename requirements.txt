@@ -1,0 +1,6 @@
+selenium
+boto3
+pandas
+requests  # For API uploads (if needed)
+numpy  # Useful for handling data in pandas
+chromedriver-autoinstaller  # Optional: Automatically install/update ChromeDriver
